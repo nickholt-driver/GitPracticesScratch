@@ -2,5 +2,4 @@ def foo1():
     print("hello foo1!")
 
 def foo2():
-    #TODO
-    pass
+    print("hello foo2!")
